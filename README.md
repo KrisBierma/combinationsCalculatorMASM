@@ -1,9 +1,9 @@
-# combinationsCalculatorMASM
+# Combinations Calculator
 
 A combinatroics practice program for students. It asks the user to calculate the number of combinations of r items taken from a set of n items. It generates random probelms with n in [3..12] and r in [1..n]. The user enters her answer and the program shows the correct answer.
 
 ## Built with
-* [MASM]
+* MASM
 
 ## Author
 
